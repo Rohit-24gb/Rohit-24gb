@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-24gb&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-24gb" /> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **FLUTTER e-commerce App**
 
 - 🌱 I’m currently learning **Flutter**
 
